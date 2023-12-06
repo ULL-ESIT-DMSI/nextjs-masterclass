@@ -8,7 +8,13 @@ Visit [Net Ninja Pro](https://netninja.dev) to view this course and many more.
 
 ## Getting Started with the Project
 
-First, run the development server:
+First, run the `json-server`:
+
+```bash
+npm run json-server
+```
+
+then run the development server:
 
 ```bash
 npm run dev
