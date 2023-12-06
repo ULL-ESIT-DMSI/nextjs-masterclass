@@ -1,5 +1,8 @@
 ## Next.js Master Class
+
 This repo contains all the course files for the Next.js Master Class on Net Ninja Pro. There is a branch for every lesson. Select the lesson you need from the branch dropdown.
+
+See [Next.js 13 Crash Course Tutorial #1 - Introduction & New Features](https://www.youtube.com/watch?v=TJQbDPGzm0Y&list=PL4cUxeGkcC9jZIVqmy_QhfQdi6mzQvJnT) YouTube list by Net Ninja
 
 Visit [Net Ninja Pro](https://netninja.dev) to view this course and many more.
 
